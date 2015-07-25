@@ -1,2 +1,3 @@
 add test code for test
 git is a good tool
+test git diff HEAD -- new.txt
